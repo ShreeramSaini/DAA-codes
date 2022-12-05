@@ -24,3 +24,4 @@ int main()
  return 0; 
  cout<<"for(i=0;i<=sqrt(y);i++) for(j=0;j<=i;j++)"; 
 } 
+
